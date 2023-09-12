@@ -1,0 +1,2 @@
+# gostrategy
+Prueba tecnica gostrategy
